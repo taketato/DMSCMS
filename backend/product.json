@@ -1,0 +1,6 @@
+{
+    "user": {"id": 1, "name": "Medibank", "type": "hospital", "email": "something@gmail.com", "password": "password"},
+    "product": {"id": 1, "type": "vaccine", "name": "Mock"}, 
+    "production": {"id": 1, "type": "vaccine", "name": "medicine", "amount": 500, "date_of_production": 20231028}, 
+    "delievery": {"id": 1, "pid": 2, "quantity": 100, "destination": 1}
+}
